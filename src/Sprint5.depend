@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1453117229 source:c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\main.cpp
+	"Taquin.h"
+
+1453048844 c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\tableau2d.h
+	<iostream>
+	<cassert>
+	<stdlib.h>
+	<iomanip>
+
+1453117144 c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\etat.h
+	"Tableau2D.h"
+
+1450882762 c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\liste.h
+	"Chaine.h"
+
+1450791449 c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\chaine.h
+	"Tableau2D.h"
+	"Etat.h"
+
+1453117251 c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\taquin.h
+	"Liste.h"
+	"Pile.h"
+	"Etat.h"
+
+1451143434 source:c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\chaine.cpp
+	<iostream>
+	<cassert>
+	"Chaine.h"
+
+1453117106 source:c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\etat.cpp
+	"Etat.h"
+
+1452082547 source:c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\liste.cpp
+	"Liste.h"
+	<iostream>
+	<cassert>
+
+1453049180 source:c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\tableau2d.cpp
+	"tableau2D.h"
+
+1453116911 source:c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\taquin.cpp
+	"Taquin.h"
+
+1452956220 source:c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\pile.cpp
+	"Pile.h"
+
+1452956344 c:\users\kilian\documents\iut paris descartes\dut 1\projets\projet sda s1\sprint5\pile.h
+	<cassert>
+	<iostream>
+	"Liste.h"
+	"Tableau2D.h"
+	"Etat.h"
+
